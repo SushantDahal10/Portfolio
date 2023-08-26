@@ -1,0 +1,11 @@
+.nav-link.active {
+  border-bottom: 2px solid red;
+}
+/* navbar.css */
+@media (max-width: 767px) {
+  /* Adjust styles for small screens */
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  /* Add more mobile-specific styles here */
+}

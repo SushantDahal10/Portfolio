@@ -1,0 +1,16 @@
+.social-media-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px; /* Adjust the gap as per your preference */
+}
+.fs-1 fw-bolder my-5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.social-media-icon {
+  color: black; /* Customize the icon color */
+  font-size: 40px; /* Customize the icon size */
+  text-decoration: none;
+}
